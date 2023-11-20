@@ -1,0 +1,14 @@
+{
+    "name": "PocketChampsMods.Plugins.Windows",
+    "rootNamespace": "Windows",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
